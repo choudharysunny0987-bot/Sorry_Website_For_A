@@ -7,7 +7,7 @@ const noBtn = document.querySelector(".no-btn");
 const btnGrp = document.querySelector(".btn-group");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "I'm SORRY";
+  question.innerHTML = "I'm SORRY babu I have hurt you so many times just because I was hurting and I couldn't think straight I have learned my lesson please forgive me Please I dont wanna live without YOU, YOU are the only thing I ever need in my life please akansha I am sorry";
   gif.src = "images/sorry.png";
   gif.style.height = "300px"; 
 gif.style.width = "400px"; 
@@ -15,7 +15,7 @@ gif.style.width = "400px";
   yesBtn.innerHTML = "Accha thik hai";
 
   yesBtn.addEventListener("click", () => {
-    question.innerHTML = "Hehehe!! I knew It";
+    question.innerHTML = "Hehehe!Thank You I am so sorry You know How much I have missed you I can't think of spending my life without you";
     gif.src = "images/love.gif";
     yesBtn.style.display = "none";
     noBtn.style.display = "none";
@@ -28,33 +28,33 @@ gif.style.width = "400px";
     noBtn.innerHTML = "Nahi Sochna";
 
     yesBtn.addEventListener("click", () => {
-      question.innerHTML = "Hehehe, I knew it!";
+      question.innerHTML = "Hehehe!Thank You I am so sorry You know How much I have missed you I can't think of spending my life without you";
       gif.src = "images/love.gif";
       yesBtn.style.display = "none";
       noBtn.style.display = "none";
     })
 
     noBtn.addEventListener("click", () => {
-      question.innerHTML = "Ak baar ar soch lo";
+      question.innerHTML = "Ek baar aur soch lo please";
       gif.src = "images/sadlife.gif";
       yesBtn.innerHTML = "Chalo maan gai";
       noBtn.innerHTML = "Final no";
 
       yesBtn.addEventListener("click", () => {
-        question.innerHTML = "Hehehe, I knew it!";
+        question.innerHTML = "Hehehe!Thank You I am so sorry You know How much I have missed you I can't think of spending my life without you";
         gif.src = "images/love.gif";
         yesBtn.style.display = "none";
         noBtn.style.display = "none";
       });
 
       noBtn.addEventListener("click", () => {
-        question.innerHTML = "Manja nah! kitna bhav khayegi";
+        question.innerHTML = "Manjaiye nah! kitna bhav khaoge aur khana h toh mujhe khalo naa";
         gif.src = "images/run.gif";
         yesBtn.innerHTML = "No";
         noBtn.innerHTML = "Yes";
 
         noBtn.addEventListener("click", () => {
-          question.innerHTML = "Hehehe, I knew it!";
+          question.innerHTML = "Hehehe!Thank You I am so sorry You know How much I have missed you I can't think of spending my life without you";
           gif.src = "images/love.gif";
           yesBtn.style.display = "none";
           noBtn.style.display = "none";
