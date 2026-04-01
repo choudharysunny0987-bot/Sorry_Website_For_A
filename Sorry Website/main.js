@@ -15,7 +15,7 @@ gif.style.width = "400px";
   yesBtn.innerHTML = "Accha thik hai";
 
   yesBtn.addEventListener("click", () => {
-    question.innerHTML = "Hehehe!Thank You I am so sorry You know How much I have missed you I can't think of spending my life without you";
+    question.innerHTML = "Hehehe!Thank You I am so sorry You know How much I have missed you I can't think of spending my life without you I love you so much meri Akki I am yours only aap bhi mjhe dur kr doge toh mai kaise tmhara ban paunga";
     gif.src = "images/love.gif";
     yesBtn.style.display = "none";
     noBtn.style.display = "none";
@@ -28,7 +28,7 @@ gif.style.width = "400px";
     noBtn.innerHTML = "Nahi Sochna";
 
     yesBtn.addEventListener("click", () => {
-      question.innerHTML = "Hehehe!Thank You I am so sorry You know How much I have missed you I can't think of spending my life without you";
+      question.innerHTML = "Hehehe!Thank You I am so sorry You know How much I have missed you I can't think of spending my life without you I love you so much meri Akki I am yours only aap bhi mjhe dur kr doge toh mai kaise tmhara ban paunga";
       gif.src = "images/love.gif";
       yesBtn.style.display = "none";
       noBtn.style.display = "none";
@@ -41,7 +41,7 @@ gif.style.width = "400px";
       noBtn.innerHTML = "Final no";
 
       yesBtn.addEventListener("click", () => {
-        question.innerHTML = "Hehehe!Thank You I am so sorry You know How much I have missed you I can't think of spending my life without you";
+        question.innerHTML = "Hehehe!Thank You I am so sorry You know How much I have missed you I can't think of spending my life without you I love you so much meri Akki I am yours only aap bhi mjhe dur kr doge toh mai kaise tmhara ban paunga";
         gif.src = "images/love.gif";
         yesBtn.style.display = "none";
         noBtn.style.display = "none";
@@ -54,7 +54,7 @@ gif.style.width = "400px";
         noBtn.innerHTML = "Yes";
 
         noBtn.addEventListener("click", () => {
-          question.innerHTML = "Hehehe!Thank You I am so sorry You know How much I have missed you I can't think of spending my life without you";
+          question.innerHTML = "Hehehe!Thank You I am so sorry You know How much I have missed you I can't think of spending my life without you I love you so much meri Akki I am yours only aap bhi mjhe dur kr doge toh mai kaise tmhara ban paunga";
           gif.src = "images/love.gif";
           yesBtn.style.display = "none";
           noBtn.style.display = "none";
